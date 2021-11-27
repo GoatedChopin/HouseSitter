@@ -1,0 +1,21 @@
+[remap]
+
+importer="wav"
+type="AudioStreamSample"
+path="res://.import/Explore.wav-7a7283207f153ced24451128c84c1771.sample"
+
+[deps]
+
+source_file="res://Audio/Explore.wav"
+dest_files=[ "res://.import/Explore.wav-7a7283207f153ced24451128c84c1771.sample" ]
+
+[params]
+
+force/8_bit=false
+force/mono=false
+force/max_rate=false
+force/max_rate_hz=44100
+edit/trim=false
+edit/normalize=false
+edit/loop=false
+compress/mode=0
